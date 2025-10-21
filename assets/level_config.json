@@ -1,0 +1,44 @@
+{
+  "background": "C:\\Users\\nightstalker\\Desktop\\ChatGPT Image 21 окт. 2025 г., 13_54_13.png",
+  "bg": {
+    "path": "C:\\Users\\nightstalker\\Desktop\\ChatGPT Image 21 окт. 2025 г., 13_54_13.png",
+    "x_rel": 0.2380375529981829,
+    "y_rel": 0.024482758620689655,
+    "scale": 0.8400000000000001
+  },
+  "goalieL": {
+    "img": "C:\\Users\\nightstalker\\Desktop\\keepL.png",
+    "x_rel": 0.355,
+    "y_rel": 0.42,
+    "scale": 0.3399999999999996
+  },
+  "goalieR": {
+    "img": "C:\\Users\\nightstalker\\Desktop\\keepR.png",
+    "x_rel": 0.45,
+    "y_rel": 0.42,
+    "scale": 0.3399999999999996
+  },
+  "spawns": [
+    {
+      "x_rel": 0.251,
+      "y_rel": 0.873
+    },
+    {
+      "x_rel": 0.694,
+      "y_rel": 0.873
+    }
+  ],
+  "targets": [
+    {
+      "x_rel": 0.416,
+      "y_rel": 0.538
+    },
+    {
+      "x_rel": 0.531,
+      "y_rel": 0.538
+    }
+  ],
+  "line": {
+    "y_rel": 0.576
+  }
+}
